@@ -34,7 +34,7 @@ const BLOG = {
     // support provider: gitalk
     provider: 'gitalk', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
-      repo: 'meatflavourdev/nobelium-gitalk', // The repository of store comments
+      repo: 'nobelium-gitalk', // The repository of store comments
       owner: 'meatflavourdev',
       admin: ['meatflavourdev'],
       clientID: '2b3935e9290e025e436e',
